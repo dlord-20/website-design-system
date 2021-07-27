@@ -5,6 +5,9 @@
 body {
     background-color: #313639;
     color: #e5e4e1;
+    width: 90%;
+    min-width: 350px;
+    margin: 0 auto;
 }
 
 section {
@@ -15,7 +18,7 @@ section {
 
 h1 {
     font-family: "Nanum Gothic";
-    font-size: 26px;
+    font-size: 30px;
     font-weight: 700;
 }
 
@@ -27,6 +30,10 @@ h3 {
 
 h2 {
     font-size: 18px;;
+}
+
+h3 {
+    font-size: 16px;
 }
 
 p {
@@ -56,3 +63,18 @@ p {
     color: #313639;
 }
 
+.Nanum-Gothic {
+    font-family: "Nanum Gothic";
+}
+
+.Roboto {
+    font-family: "Roboto";
+}
+
+.Playfair-Display {
+    font-family: "Playfair-Display";
+}
+
+.fonts div {
+    padding: 10px 0px;
+}
