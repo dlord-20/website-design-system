@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #313639;
+    color: #e5e4e1;
+}
+
+section {
+    border: 1px solid #e5e4e1;
+    margin: 20px 0px;
+    padding: 20px;
+}
+
+h1 {
+    font-family: "Nanum Gothic";
+    font-size: 26px;
+    font-weight: 700;
+}
+
+h2,
+h3 {
+    font-family: "Roboto";
+    font-weight: 500px;
+}
+
+h2 {
+    font-size: 18px;;
+}
+
+p {
+    font-family: "Playfair Display";
+    font-size: 14px;
+}
+
+.colors div {
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    margin-right: 50px;
+}
+
+.red {
+    background-color: #b32134;
+}
+
+.blue {
+    background-color: #3b3b6d;
+}
+
+.white {
+    background-color: #e5e4e1;
+    color: #313639;
+}
+
